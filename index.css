@@ -1,0 +1,26 @@
+/* Proyecto CV Chiara Vallone Feb 2023 */
+
+.yo { font-family: Broadway; } 
+.contacto  { font-size: 20px; color: darkred }
+.seccion { margin-bottom: 2em; padding-bottom: 3em; border-bottom: 2px solid lightgrey; } /*linea beige */
+.titulo {  margin-left: 10px; font-family: Lato; font-size: 22px;  }  
+.detalle{ margin-left: 70px; font-family: Georgia; font-size: 20px; color: dimgray; font-style: italic;  } 
+
+h2 { font-size: 152% ; color: indianred}
+h3 { font-size: 122% }
+h1 , h3 { color: dimgray; } /*gris oscuro*/
+h4 { font-size: 110%; color: dimgray; }
+p { font-size: 100%; line-height: 18px; padding-right: 3em; }
+a { color: darkred}  /*bordo*/
+th { padding: 15px 80px ; color: dimgray; font-family: Georgia; font-size: 24px; }
+td { padding: 15px 80px; font-family: Georgia; font-size: 20px; color: dimgray; font-style: italic;}
+a#pdf { display: block; float: left; background: indianred; color: white; padding: 6px 16px 6px 16px; margin-bottom: 6px; text-decoration: none;  }
+
+#contenido { padding: 15px 80px; margin: 80px auto; background: whitesmoke; border: solid dimgray; border-width: 15px 15px 15px 15px; } /* fondo gris claro, linea gris oscuro*/
+#CV { font-size: 20px; color: darkred } /*bordo*/
+#primero h1 { font-size: 60px; text-transform: uppercase; letter-spacing: 6px;  }
+#primero h2 { text-transform: uppercase; letter-spacing: 18px; color: indianred} /* ladrillo*/
+#segundo{ margin-bottom: 3em; }
+#pie p { margin-bottom: 3; text-align: center; font-family: arial; font-size: 20px; color: dimgray; font-style: bold; } /* gris oscuro*/
+
+
